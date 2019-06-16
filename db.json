@@ -1,12 +1,14 @@
 {
   "speeches": [
     {
+      "id": 1,
       "content": "John F. Kennedy",
       "date" :"1960-07-14T16:00:00.000Z",
       "subject": "ACCEPTANCE OF DEMOCRATIC NOMINATION FOR PRESIDENT",
       "content": "Governor Stevenson, Senator Johnson, Mr. Butler, Senator Symington, Senator Humphrey, Speaker Rayburn, Fellow Democrats, I want to express my thanks to Governor Stevenson for his generous and heart-warming introduction. \nIt was my great honor to place his name in nomination at the 1956 Democratic Convention, and I am delighted to have his support and his counsel and his advice in the coming months ahead.\n With a deep sense of duty and high resolve, I accept your nomination. "
     },
     {
+      "id": 2,
       "author": "John F. Kennedy",
       "date" :"1960-09-12T16:00:00.000Z",
       "subject": "ADDRESS TO THE GREATER HOUSTON MINISTERIAL ASSOCIATION",
