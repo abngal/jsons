@@ -1,18 +1,24 @@
 {
-  "speeches": [
-    {
-      "id": 1,
-      "content": "John F. Kennedy",
-      "date" :"1960-07-14T16:00:00.000Z",
-      "subject": "ACCEPTANCE OF DEMOCRATIC NOMINATION FOR PRESIDENT",
-      "content": "Governor Stevenson, Senator Johnson, Mr. Butler, Senator Symington, Senator Humphrey, Speaker Rayburn, Fellow Democrats, I want to express my thanks to Governor Stevenson for his generous and heart-warming introduction. \nIt was my great honor to place his name in nomination at the 1956 Democratic Convention, and I am delighted to have his support and his counsel and his advice in the coming months ahead.\n With a deep sense of duty and high resolve, I accept your nomination. "
-    },
-    {
-      "id": 2,
-      "author": "John F. Kennedy",
-      "date" :"1960-09-12T16:00:00.000Z",
-      "subject": "ADDRESS TO THE GREATER HOUSTON MINISTERIAL ASSOCIATION",
-      "content": "Reverend Meza, Reverend Reck, I'm grateful for your generous invitation to speak my views. \n While the so-called religious issue is necessarily and properly the chief topic here tonight, I want to emphasize from the outset that we have far more critical issues to face in the 1960 election; the spread of Communist influence, until it now festers 90 miles off the coast of Florida--the humiliating treatment of our President and Vice President by those who no longer respect our power--the hungry children I saw in West Virginia, the old people who cannot pay their doctor bills, the families forced to give up their farms--an America with too many slums, with too few schools, and too late to the moon and outer space.\n These are the real issues which should decide this campaign. And they are not religious issues--for war and hunger and ignorance and despair know no religious barriers. "
-    }
-  ]
+  "polspeeches": {
+    "speeches": [
+      {
+        "id": 1,
+        "content": "John F. Kennedy",
+        "date" :"1960-07-14T16:00:00.000Z",
+        "subject": "ACCEPTANCE OF DEMOCRATIC NOMINATION FOR PRESIDENT",
+        "content": "Governor Stevenson, Senator Johnson, Mr. Butler, Senator Symington, Senator Humphrey, Speaker Rayburn, Fellow Democrats, I want to express my thanks to Governor Stevenson for his generous and heart-warming introduction. \nIt was my great honor to place his name in nomination at the 1956 Democratic Convention, and I am delighted to have his support and his counsel and his advice in the coming months ahead.\n With a deep sense of duty and high resolve, I accept your nomination. "
+      },
+      {
+        "id": 2,
+        "author": "John F. Kennedy",
+        "date" :"1960-09-12T16:00:00.000Z",
+        "subject": "ADDRESS TO THE GREATER HOUSTON MINISTERIAL ASSOCIATION",
+        "content": "Reverend Meza, Reverend Reck, I'm grateful for your generous invitation to speak my views. \n While the so-called religious issue is necessarily and properly the chief topic here tonight, I want to emphasize from the outset that we have far more critical issues to face in the 1960 election; the spread of Communist influence, until it now festers 90 miles off the coast of Florida--the humiliating treatment of our President and Vice President by those who no longer respect our power--the hungry children I saw in West Virginia, the old people who cannot pay their doctor bills, the families forced to give up their farms--an America with too many slums, with too few schools, and too late to the moon and outer space.\n These are the real issues which should decide this campaign. And they are not religious issues--for war and hunger and ignorance and despair know no religious barriers. "
+      }
+    ]
+  }
+  "collection2": {
+    "members" : [
+    ]
+  }
 }
